@@ -19,6 +19,20 @@
 
 Solana 基金会开发者及生态资深导师授课，每周 Office Hour 现场答疑，优秀毕业生直通 Solana 生态项目开发岗位面试并获得奖学金。
 
+<div align="center">
+
+![Bootcamp Poster](./public/img/poster.png)
+
+</div>
+
+### 课程导师
+
+<div align="center">
+
+![Curator](./public/img/curator.png)
+
+</div>
+
 ### 课程安排
 
 - **Season 1**：区块链技术 101（1月6日-2月6日）
