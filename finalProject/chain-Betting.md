@@ -41,7 +41,6 @@ https://github.com/mumuya1/chain-Betting
 
 ## 🎬 Demo 演示
 
-> 如果后面你录了视频，可以把链接替换进来。
 
 - 🎥 视频演示：https://x.com/mm130251/status/2016461877564592506
 
