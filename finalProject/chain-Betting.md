@@ -41,7 +41,7 @@ https://github.com/mumuya1/chain-Betting
 
 ## 🎬 Demo 演示
 
-
+(项目尚未完善基于本地测试链运行演示，部分功能暂未实现或未完全实现)
 - 🎥 视频演示：https://x.com/mm130251/status/2016461877564592506
 
 - 项目源码（运行说明见仓库 README）：  
